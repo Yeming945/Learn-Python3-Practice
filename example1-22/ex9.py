@@ -1,3 +1,5 @@
+""" 练习 9 打印，打印，打印 """
+
 # Here's some new string stuff, remember type it exactly.
 
 days = "Mon Tue Wed Thu Fri Sat Sun"
